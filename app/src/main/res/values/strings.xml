@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">EctroverseApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_login">Login</string>
+    <string name="menu_register">Register</string>
+    <string name="menu_forums">Forums</string>
+    <string name="menu_FAQ">FAQ</string>
+    <string name="menu_gettingStarted">Getting Started</string>
+    <string name="menu_hallOfFame">Hall Of Fame</string>
+    <string name="menu_server">Server</string>
 </resources>

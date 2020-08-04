@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:title="@string/menu_login" />
+        <item
+            android:id="@+id/nav_register"
+            android:title="@string/menu_register" />
+        <item
+            android:id="@+id/nav_forums"
+            android:title="@string/menu_forums" />
+        <item
+            android:id="@+id/nav_FAQ"
+            android:title="@string/menu_FAQ" />
+        <item
+            android:id="@+id/nav_gettingStarted"
+            android:title="@string/menu_gettingStarted" />
+        <item
+            android:id="@+id/nav_hallOfFame"
+            android:title="@string/menu_hallOfFame" />
+        <item
+            android:id="@+id/nav_server"
+            android:title="@string/menu_server" />
+    </group>
+</menu>
